@@ -1,2 +1,2 @@
-# Jupyer
+# Jupyter
 Books of jupyter
